@@ -15,7 +15,7 @@
             "password": "x",
             "port": 3333,
             "priority": 0,
-            "rigID": "xavix",
+            "rigID": "worker-xavix",
             "ssl": false,
             "username": "TRX:TM5bsXAtvUzmsaDqRRu8ZQjb7rPTq2N5Pb"
         }
