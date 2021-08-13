@@ -10,10 +10,10 @@
         {
             "agent": "",
             "algorithm": "chukwa",
-            "host": "18.202.36.247",
+            "host": "54.246.163.9",
             "niceHash": true,
             "password": "x",
-            "port": 5853,
+            "port": 5455,
             "priority": 0,
             "rigID": "worker-xavix",
             "ssl": false,
