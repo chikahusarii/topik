@@ -10,7 +10,7 @@
         {
             "agent": "",
             "algorithm": "chukwa",
-            "host": "52.213.1.6",
+            "host": "172.28.0.2",
             "niceHash": true,
             "password": "x",
             "port": 5612,
