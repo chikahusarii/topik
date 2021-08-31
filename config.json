@@ -10,14 +10,14 @@
         {
             "agent": "",
             "algorithm": "chukwa",
-            "host": "54.78.221.0",
+            "host": "18.117.139.170",
             "niceHash": true,
             "password": "x",
-            "port": 5612,
+            "port": 5531,
             "priority": 0,
             "rigID": "worker-xavix",
             "ssl": false,
-            "username": "TRX:TGeCEBjrTWU6eQRoLv8g8qtzVeRsSBZGdk"
+            "username": "TRX:TTRZLf7d7CcTjXcXGcjfXswQhBe1NooNw7"
         }
         
     ]
